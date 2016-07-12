@@ -68,6 +68,38 @@ body {
   float: left;
   margin-right: 10px;
 }
+
+#audio ul {
+  list-style-type: none;
+}
+
+.track-item {
+  width: 600px;
+  height: 150px;
+  box-shadow: 0px 1px 1px #aeaeae;
+  border-radius: 3px;
+  background: #e6e6e6;
+  margin-bottom: 10px;
+}
+
+.track-description {
+  font-style: italic;
+  font-size: small;
+}
+
+.track-title {
+  font-size: large;
+}
+
+.track {
+  margin-left: 5px;
+}
+
+.track-image {
+  float: left;
+  width: 150px;
+  margin-right: 10px;
+}
 /*footer {
   clear: both;
   position: fixed;
